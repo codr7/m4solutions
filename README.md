@@ -10,6 +10,4 @@ Jag valde då att avsluta min roll i projektet, eftersom jag inte spelar den type
 
 Som hämnd för att jag vägrade krypa så hamnade jag på ledningens svarta lista, som man använder för att förhindra att den som har trampat på deras tår aldrig mer får några jobb på något företag där dom känner någon i ledningen.
 
-Mig spelar det egentligen ingen större roll längre, jag har så pass gedigen kompetens att jag kan söka jobb vart jag vill.
-
-Men jag känner ändå att jag har ett ansvar att informera allmänheten om vad det är för typ av personer som leder företaget och hur man kan vänta sig att bli behandlad.
+Mig spelar det egentligen ingen större roll längre, jag har så pass gedigen kompetens att jag kan söka jobb vart jag vill. Men jag känner ändå att jag har ett ansvar att informera allmänheten om vad det är för typ av personer som leder företaget och hur man kan vänta sig att bli behandlad.
