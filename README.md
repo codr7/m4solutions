@@ -2,9 +2,9 @@
 
 ### Vad man kan förvänta sig av m4 Solutions
 
-Jag fick i uppdrag att utveckla ett internt administrativt system för m4 Solutions någon gång under 2013. Systemet, im4ix, är med all säkerhet fortfarande i drift. Utvecklingen fortgick under några år, efterhand som scopet utökades och man såg fler möjligheter att förenkla verksamheten.
+Jag fick i uppdrag att utveckla ett internt administrativt system för m4 Solutions någon gång under 2013. Systemet, im4ix, är med all säkerhet fortfarande i drift.
 
-Sedan tog man plötsligt in nya utvecklare, helt utan förvarning; och meddelade mig att man nu förväntade sig att jag skulle jobba gratis eftersom systemet hade kostat mer pengar att utveckla än planerat.
+Utvecklingen fortgick under några år, efterhand som scopet utökades och man såg fler möjligheter att förenkla verksamheten. Sedan tog man plötsligt in nya utvecklare, helt utan förvarning; och meddelade mig att man nu förväntade sig att jag skulle jobba gratis eftersom systemet hade kostat mer pengar att utveckla än planerat.
 
 Jag valde då att avsluta min roll i projektet, eftersom jag inte spelar den typen av spel; och överlämna hela ansvaret till deras nya utvecklare.
 
