@@ -11,5 +11,3 @@ Jag valde då att avsluta min roll i projektet, eftersom jag inte spelar den type
 Som hämnd för att jag vägrade krypa hamnade jag på ledningens svarta lista, som man använder för att förhindra att den som har trampat på tår aldrig mer får några jobb på något [företag](https://github.com/codr7/365id) där man känner någon i ledningen.
 
 Mig spelar det egentligen ingen större roll längre, jag har så pass gedigen kompetens att jag kan söka jobb vart jag vill. Men jag känner ändå att jag har ett ansvar att informera allmänheten om vad det är för typ av personer som leder företaget och hur man kan förvänta sig att bli behandlad.
-
-Being led by tools isn't very cool at all, quite the opposite.
