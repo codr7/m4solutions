@@ -1,13 +1,13 @@
 ![Logo](logo.png)
 
-### Vad man kan förvänta sig av m4 Solutions
+### Vad man kan fÃ¶rvÃ¤nta sig av m4 Solutions
 
-Jag fick i uppdrag att utveckla ett internt administrativt system åt [m4 Solutions](https://www.m4.nu/) någon gång under 2013. Systemet, im4ix, är med all säkerhet fortfarande i drift.
+Jag fick i uppdrag att utveckla ett internt administrativt system Ã¥t [m4 Solutions](https://www.m4.nu/) nÃ¥gon gÃ¥ng under 2013. Systemet, im4ix, Ã¤r med all sÃ¤kerhet fortfarande i drift.
 
-Utvecklingen fortgick under några år, efterhand som scopet utökades och man såg fler möjligheter att förenkla verksamheten. Sedan tog man plötsligt in nya utvecklare, helt utan förvarning; och meddelade mig att man nu förväntade sig att jag skulle jobba gratis eftersom systemet hade kostat mer pengar att utveckla än planerat.
+Utvecklingen fortgick under nÃ¥gra Ã¥r, efterhand som scopet utÃ¶kades och man sÃ¥g fler mÃ¶jligheter att fÃ¶renkla verksamheten. Sedan tog man plÃ¶tsligt in nya utvecklare, helt utan fÃ¶rvarning; och meddelade mig att man nu fÃ¶rvÃ¤ntade sig att jag skulle jobba gratis eftersom systemet hade kostat mer pengar att utveckla Ã¤n planerat.
 
-Jag valde då att avsluta min roll i projektet, eftersom jag inte spelar den typen av spel.
+Jag valde dÃ¥ att avsluta min roll i projektet, eftersom jag inte spelar den typen av spel.
 
-Som hämnd för att jag vägrade krypa hamnade jag på ledningens svarta lista, som man använder för att förhindra att den som har trampat på tår aldrig mer får några jobb på något [företag](https://github.com/codr7/365id) där man känner någon i ledningen.
+Som hÃ¤mnd fÃ¶r att jag vÃ¤grade krypa hamnade jag pÃ¥ ledningens svarta lista, som man anvÃ¤nder fÃ¶r att fÃ¶rhindra att den som har trampat pÃ¥ tÃ¥r fÃ¥r nÃ¥gra jobb pÃ¥ nÃ¥got [fÃ¶retag](https://github.com/codr7/365id) dÃ¤r man kÃ¤nner nÃ¥gon i ledningen.
 
-Mig spelar det egentligen ingen större roll längre, jag har så pass gedigen kompetens att jag kan söka jobb vart jag vill. Men jag känner ändå att jag har ett ansvar att informera allmänheten om vad det är för typ av personer som leder företaget och hur man kan förvänta sig att bli behandlad.
+Mig spelar det egentligen ingen stÃ¶rre roll lÃ¤ngre, jag har sÃ¥ pass gedigen kompetens att jag kan sÃ¶ka jobb vart jag vill. Men jag kÃ¤nner Ã¤ndÃ¥ att jag har ett ansvar att informera allmÃ¤nheten om vad det Ã¤r fÃ¶r typ av personer som leder fÃ¶retaget och hur man kan fÃ¶rvÃ¤nta sig att bli behandlad.
